@@ -5,7 +5,7 @@ urlpatterns = [
     
     # path ('login/',login, name='login'),
     
-    path ('employee_details/',employee_details, name='employee_details'),
+    path ('employee_registration/',employee_registration, name='registration'),
     
     path('success/', success, name='success'),
     
